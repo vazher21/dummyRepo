@@ -1,0 +1,20 @@
+{
+  "name": "helperclassbyme",
+  "version": "1.0.0",
+  "description": "completely useless package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vazher21/dummyRepo.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vazher21/dummyRepo/issues"
+  },
+  "homepage": "https://github.com/vazher21/dummyRepo#readme"
+}
